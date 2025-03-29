@@ -53,11 +53,6 @@ The dataset `financial_loan.csv` contains:
 - **Continuous Variables:** `annual_income`, `dti`, `installment`, `int_rate`, `loan_amount`, `total_payment`
 - **Categorical Variables:** `address_state`, `application_type`, `grade`, `home_ownership`, `loan_status`, `purpose`, `sub_grade`, `term`, `verification_status`
 
-## Requirements
-To run the analysis, install the required dependencies:
-```bash
-pip install pandas numpy matplotlib seaborn
-```
 
 ## Usage
 1. **Load Dataset:**
